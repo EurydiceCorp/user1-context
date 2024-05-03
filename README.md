@@ -1,4 +1,4 @@
 # Context
 
-This repo is for understanding GitHub contexts and command injection using the functionality.
+a This repo is for understanding GitHub contexts and command injection using the functionality.
 
